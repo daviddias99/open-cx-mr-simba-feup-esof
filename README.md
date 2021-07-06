@@ -1,4 +1,22 @@
+# ESOF
 
+**2017/2018** - 3rd Year, 1st Semester
+
+**Course:** *Engenharia de Software* ([ESOF](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436443)) | Software Engineering
+
+**Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Eduardo Ribeiro([EduRibeiro00](https://github.com/EduRibeiro00)), José Gomes([JoeMGomes](https://github.com/JoeMGomes)) and Luís Cunha ([luispcunha](https://github.com/luispcunha))
+
+---
+
+**Description:** *See bellow*. The AMA app was part of a larger project (Open-CX) and enabled us to get a birds-eye view into the software development processes from start to finish in a large scale project.
+
+**Technologies:** Flutter 
+
+**Skills:** Project Management, Software Engineering, Software architecture, development process, software documentation, software testing
+
+**Grade:** 19.7/20
+
+---
 
 # openCX-*Mr Simba* Development Report
 
